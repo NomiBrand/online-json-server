@@ -1,6 +1,7 @@
 {
-"count": 13,
-"results": 
-{"id": 1, "firstName": "David", "lastName": "Cohen"},
-{"id": 1, "firstName": "Moshe", "lastName": "Levi"}
+  "count": 13,
+  "results": {
+    {"id": 1, "firstName": "David", "lastName": "Cohen"},
+    {"id": 1, "firstName": "Moshe", "lastName": "Levi"}
+   }
 }
